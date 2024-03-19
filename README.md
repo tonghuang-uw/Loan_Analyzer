@@ -1,4 +1,4 @@
-# Week_1_Challenge
+# Loan Analysis
 
 ## Project Overview
 This project automates the process of analyzing a portfolio of loans. It includes calculations for summarizing the portfolio, determining the investment evaluation of individual loans, filtering out inexpensive loans, and exporting the filtered list to a CSV file. The automation is achieved through a series of Python scripts that perform various financial calculations and data processing tasks.
